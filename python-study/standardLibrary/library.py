@@ -170,8 +170,8 @@ import math  # math에 정의되어 있는 함수를 사용
 def lcm(a, b):
     return a * b // math.gcd(a, b)
 
-print(math.gcd(21, 14)) # 최대 공약수(GCD) 계산  => 7
-print(lcm(21, 14))      # 최소 공배수(LCM) 계산  => 42
+print(math.gcd(21, 14)) # 최대 공약수(GCD) 계산   => 7
+print(lcm(21, 14))      # 최소 공배수(LCM) 계산   => 42
 
 
 
