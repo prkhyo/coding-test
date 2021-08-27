@@ -1,1 +1,1 @@
-python  algorithm/greedy/greedyQ2.py
+python  algorithm/Baekjoon-algorithm/greedy/coin.py

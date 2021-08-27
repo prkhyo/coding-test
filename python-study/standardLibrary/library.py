@@ -31,7 +31,7 @@ print(result)   # 56
 
 # sorted() : 내부적으로 리스트와 같은 반복 가능한 객체가 들어왔을 때 각 원소를 정렬한 결과를 반환
 result = sorted([9, 1, 8, 5, 4])   # ==> 오름 차순 정렬된 값 반환
-reverse_result = sorted([9, 1, 8, 5, 4], reverse=True)   # ==> 내람 차순 정렬된 값 반환
+reverse_result = sorted([9, 1, 8, 5, 4], reverse=True)   # ==> 내림 차순 정렬된 값 반환
 print(reverse_result)  # [9, 8, 5, 4, 1]
 
 # sorted() with key : key 속성으로 정렬 기준을 명시해줄 수 있음
